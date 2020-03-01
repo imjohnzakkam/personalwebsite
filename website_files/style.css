@@ -1778,10 +1778,9 @@ img.svg{
 }
 .arlo_tm_contact_wrap_all .leftbox .short_info_wrap{
 	width: 100%;
-	height: 5%;
+	height: 0%;
 	clear: both;
 	float: left;
-	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
@@ -1796,7 +1795,7 @@ img.svg{
 .arlo_tm_contact_wrap_all .leftbox .short_info_wrap ul li label{
 	font-family: "Montserrat";
     font-weight: 700;
-    font-size: 13px;
+    font-size: 15px;
     color: #000;
 }
 .arlo_tm_contact_wrap_all .leftbox .short_info_wrap ul li span{padding-left: 5px;}
