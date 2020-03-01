@@ -31,7 +31,7 @@
 .xcon-linkedin:before { content: '\f0e1';  font-family: 'Font Awesome 5 Brands'; }
 .xcon-instagram:before { content: '\f16d'; font-family: 'Font Awesome 5 Brands'; } 
 .xcon-stackoverflow:before { content: '\f16c'; font-family: 'Font Awesome 5 Brands'; } 
-.xcon-angle-left:before { content: '\f104'; font-family: 'Font Awesome 5 Free'; } 
+.xcon-angle-left:before { content: '\f104'; font-family: 'Font Awesome 5 Solid'; } 
 .xcon-double-down:before { content: '\f103'; font-family: 'Font Awesome 5 Free'; } 
 /* 
 ul{
