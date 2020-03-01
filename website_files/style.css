@@ -26,16 +26,18 @@
 /*---------------------------------------------------*/
 /*	01) ARLO BASE
 /*---------------------------------------------------*/
-/* .xcon-facebook:before { content: '\f09a'; font-family: 'Font Awesome 5 Brands'; }
+.xcon-facebook:before { content: '\f09a'; font-family: 'Font Awesome 5 Brands'; }
 .xcon-twitter:before { content: '\f099'; font-family: 'Font Awesome 5 Brands'; } 
 .xcon-linkedin:before { content: '\f0e1';  font-family: 'Font Awesome 5 Brands'; }
 .xcon-instagram:before { content: '\f16d'; font-family: 'Font Awesome 5 Brands'; } 
-.xcon-stackoverflow:before { content: '\f16c'; font-family: 'Font Awesome 5 Brands'; }  */
-
+.xcon-stackoverflow:before { content: '\f16c'; font-family: 'Font Awesome 5 Brands'; } 
+.xcon-angle-left:before { content: '\f104'; font-family: 'Font Awesome 5 Free'; } 
+.xcon-double-down:before { content: '\f103'; font-family: 'Font Awesome 5 Free'; } 
+/* 
 ul{
 display:flex;
  list-style: none;
-}
+} */
 
 ul.list li{
 	display: inline;
@@ -176,13 +178,13 @@ img.svg{
 .arlo_tm_leftpart_wrap.opened{left: -300px;}
 .arlo_tm_leftpart_wrap .logo_wrap{
 	background-color: #041230;
-	padding: 50px 20px;
+	padding: 20px 10px;
 	width: 100%;
+	height: 100%;
 	float: left;
 	text-align: center;
-	margin-bottom: 50px;
+	margin-bottom: 10px;
 	border-bottom: 1px solid rgba(255,255,255,.1);
-	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
@@ -243,7 +245,7 @@ img.svg{
 .arlo_tm_leftpart_wrap .leftpart_bottom{
 	position: absolute;
 	left: 60px;
-	bottom: 38px;
+	bottom: 10px;
 }
 .arlo_tm_leftpart_wrap .leftpart_bottom .social_wrap{
 	width: 100%;
