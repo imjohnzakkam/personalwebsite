@@ -1,2 +1,2 @@
 
-This is page is a hosting for [my webiste](https://imjohnzakkam.github.io).
+This is page is a hosting for [my webiste](http://johnzakkam.ml).
