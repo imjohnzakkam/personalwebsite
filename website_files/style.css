@@ -532,7 +532,7 @@ img.svg{
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
-.arlo_tm_title_holder.contact{padding-bottom: 93px;}
+.arlo_tm_title_holder.contact{padding-bottom: 35px;}
 .arlo_tm_title_holder:before{
 	position: absolute;
 	content: "";
@@ -1130,7 +1130,7 @@ img.svg{
 /*	06) ARLO PORTFOLIO
 /*---------------------------------------------------*/
 
-.arlo_tm_title_holder.portfolio{padding-bottom: 90px;}
+.arlo_tm_title_holder.portfolio{padding-bottom: 30px;}
 .arlo_tm_portfolio_wrapper_all{
 	width: 100%;
 	height: auto;
