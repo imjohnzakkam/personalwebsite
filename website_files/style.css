@@ -26,6 +26,16 @@
 /*---------------------------------------------------*/
 /*	01) ARLO BASE
 /*---------------------------------------------------*/
+/* .xcon-facebook:before { content: '\f09a'; font-family: 'Font Awesome 5 Brands'; }
+.xcon-twitter:before { content: '\f099'; font-family: 'Font Awesome 5 Brands'; } 
+.xcon-linkedin:before { content: '\f0e1';  font-family: 'Font Awesome 5 Brands'; }
+.xcon-instagram:before { content: '\f16d'; font-family: 'Font Awesome 5 Brands'; } 
+.xcon-stackoverflow:before { content: '\f16c'; font-family: 'Font Awesome 5 Brands'; }  */
+
+ul{
+display:flex;
+ list-style: none;
+}
 
 ul.list li{
 	display: inline;
